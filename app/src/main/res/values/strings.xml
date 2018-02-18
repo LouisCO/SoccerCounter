@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soccer Counter</string>
+    <string name="team1">Home Team</string>
+    <string name="team2">Away Team</string>
+    <string name="goals">Goals</string>
+    <string name="fouls">Fouls</string>
+    <string name="corners">Corners</string>
+    <string name="offsides">Offsides</string>
+    <string name="reset">Reset</string>
+</resources>
